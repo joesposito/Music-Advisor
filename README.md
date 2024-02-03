@@ -13,7 +13,7 @@ The app also works without a database, users will just have to reauthenticate ev
 
 Below you can find a video demonstration:
 
-![](https://github.com/joesposito/MusicAdvisor/blob/master/MusicAdvisorGIF.gif)
+![](https://github.com/joesposito/Music-Advisor/blob/master/MusicAdvisorGIF.gif)
 
 ## Features
 - menu - provides a menu of the options
